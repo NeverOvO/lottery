@@ -1,7 +1,5 @@
 # lottery
 
-[![Security Status](https://www.murphysec.com/platform3/v3/badge/1612480094761693184.svg?t=1)](https://www.murphysec.com/accept?code=b12bad9ac49b0365dfb02636da07043c&type=1&from=2&t=2)
-
 A new Flutter project.
 
 ## Getting Started
